@@ -99,7 +99,7 @@ Sponsoring the pgRouting project provides the following benefits:
 
   * Platinum Sponsors
 
-    * listed with a large logo (12k pixel. e.g. 400x300px)
+    * listed with a large logo (120k pixel. e.g. 400x300px)
     * logo also placed in the sidebar of pgrouting.org
 
   * Gold Sponsors
